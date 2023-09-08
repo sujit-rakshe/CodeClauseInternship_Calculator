@@ -11,10 +11,9 @@ A Python project that implements a basic calculator with a user-friendly Tkinter
 - Addition, subtraction, multiplication, and division.
 - Clear and user-friendly interface.
 
-## Screenshots
+## Screenshot
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](Screenshot.png)
 
 ## Demo Video
 
